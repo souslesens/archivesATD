@@ -1,0 +1,52 @@
+{
+  "nom_projet": "",
+  "commanditaire_report": "",
+  "personnes": "",
+  "depositaire": "Sébastien",
+  "versement": "Versement de la Délégation Générale",
+  "description_report": "Archives diverses de la DG",
+  "periode_debut_report": "01/01/2017",
+  "periode_fin_report": "31/12/2017",
+  "arborescence": {
+    "101": {
+      "nom": "Autres",
+      "enroul": true,
+      "path": "/Autres",
+      "idpath": "1/101",
+      "materiel": "",
+      "communicable": "simple",
+      "description_ter": "Archives autres qui ne peuvent être décrites comme diverses\n",
+      "remarquable": true,
+      "niveau": 1,
+      "id_parent": 1,
+      "estArticle": true,
+      "fils": [
+        "001divers.jpg",
+        "AutrePDF.pdf",
+        "autres-300x300_605.png",
+        "AutresODT.odt",
+        "divers.gif"
+      ]
+    },
+    "102": {
+      "nom": "Divers",
+      "enroul": true,
+      "path": "/Divers",
+      "idpath": "1/102",
+      "materiel": "",
+      "communicable": "simple",
+      "description_ter": "Archives diverses de la DG, comprenant des documents et des images",
+      "remarquable": true,
+      "niveau": 1,
+      "id_parent": 1,
+      "estArticle": true,
+      "fils": [
+        "autres.png",
+        "AutresDivers.odt",
+        "divers.gif",
+        "Divers1.odt",
+        "Divers2.odt"
+      ]
+    }
+  }
+}

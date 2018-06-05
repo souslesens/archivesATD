@@ -1,0 +1,416 @@
+{
+  "nom_reporter": "Sebastien",
+  "langue_reportage": "fr",
+  "commanditaire_report": "ip",
+  "periode_debut_report": "01/01/2017",
+  "txt_general_person": "Sébastien ,La marmotte,le chamois,etc.",
+  "nom_projet": "Les paysages",
+  "periode_fin_report": "31/12/2017",
+  "description_report": "Ce reportage montre des paysages montagneux trop chouette",
+  "enroul": true,
+  "niveau": 0,
+  "id_parent": 0,
+  "fils": {
+    "1": {
+      "estArticle": true,
+      "niveau": 1,
+      "id_parent": 1,
+      "nom": "racine",
+      "enroul": true,
+      "child": 5,
+      "fils": {
+        "1517570990115": {
+          "id": 1517570990115,
+          "nom": "France",
+          "description_rep": "Photos des différentes montagne en France",
+          "fils": {
+            "1517571214001": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Les Alpes",
+              "id": 1517571214001,
+              "description_ter": "Photos des Alpes",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "81628-les-alpes-bernoises.jpg": "81628-les-alpes-bernoises.jpg",
+                  "Les-Alpes-3.jpg": "Les-Alpes-3.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570990115,
+              "niveau": 2,
+              "position": 1
+            },
+            "1517571252032": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Les Pyrénées",
+              "id": 1517571252032,
+              "description_ter": "Photos des Pyrenées",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "les-pyrenees.jpg": "les-pyrenees.jpg",
+                  "pyrénées-orientales.jpg": "pyrénées-orientales.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570990115,
+              "niveau": 2,
+              "position": 2
+            },
+            "1517571328886": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Autres montagnes",
+              "id": 1517571328886,
+              "description_ter": "Ayant la flemme de mettre chaque montagne je vais mettre toutes les autres montagnes françaises dans le même dossier ... ",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "camping-jura-1-pano_principal_page_region_portail.jpg": "camping-jura-1-pano_principal_page_region_portail.jpg",
+                  "2__728__VE__COURT-SEJOUR-EN-JURA.jpg": "2__728__VE__COURT-SEJOUR-EN-JURA.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570990115,
+              "niveau": 2,
+              "position": 3
+            }
+          },
+          "child": 3,
+          "contenu": {},
+          "position": 1,
+          "isSelected": true,
+          "estArticle": true,
+          "enroul": true,
+          "id_parent": 1,
+          "niveau": 1
+        },
+        "1517570999609": {
+          "id": 1517570999609,
+          "nom": "Europe",
+          "description_rep": "Photos des différentes montagne européenne",
+          "fils": {
+            "1517576241545": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Montagnes scandinaves",
+              "id": 1517576241545,
+              "description_ter": "Photos des montagnes scandinaves",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "elodiecloutier_08octobre_photo1.jpg": "elodiecloutier_08octobre_photo1.jpg",
+                  "index.jpeg": "index.jpeg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570999609,
+              "niveau": 2,
+              "position": 1
+            },
+            "1517576654336": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Caucase",
+              "id": 1517576654336,
+              "description_ter": "Photos du Caucase",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "Visoterra-georgie-caucase-9702.jpg": "Visoterra-georgie-caucase-9702.jpg",
+                  "1313908-Caucase.jpg": "1313908-Caucase.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570999609,
+              "niveau": 2,
+              "position": 2
+            },
+            "1517576931936": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Oural",
+              "id": 1517576931936,
+              "description_ter": "Photos de l'Oural",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "ob_c47a5a_1033384220.jpg": "ob_c47a5a_1033384220.jpg",
+                  "IMGP8590.jpg": "IMGP8590.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517570999609,
+              "niveau": 2,
+              "position": 3
+            }
+          },
+          "child": 3,
+          "contenu": {},
+          "position": 2,
+          "isSelected": true,
+          "estArticle": true,
+          "enroul": true,
+          "id_parent": 1,
+          "niveau": 1
+        },
+        "1517571012967": {
+          "id": 1517571012967,
+          "nom": "Amérique",
+          "description_rep": "Photos des différentes montagne du continent américain (Amérique du Nord, amérique central et amérique du sud)",
+          "fils": {
+            "1517577284861": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Andes",
+              "id": 1517577284861,
+              "description_ter": "Photos des Andes (Amérique du Sud) ",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "perou8.jpg": "perou8.jpg",
+                  "3-Machu-Picchu-1024x683.jpg": "3-Machu-Picchu-1024x683.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571012967,
+              "niveau": 2,
+              "position": 1
+            },
+            "1517577798250": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Les Rocheuses",
+              "id": 1517577798250,
+              "description_ter": "Photos des Rocheuses (Amérique du Nord)",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "g_34_les_rocheuses_canadiennes.jpg": "g_34_les_rocheuses_canadiennes.jpg",
+                  "balade-dans-les-rocheuses-canadiennes.jpg": "balade-dans-les-rocheuses-canadiennes.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571012967,
+              "niveau": 2,
+              "position": 2
+            }
+          },
+          "child": 2,
+          "contenu": {},
+          "position": 3,
+          "isSelected": true,
+          "estArticle": true,
+          "enroul": true,
+          "id_parent": 1,
+          "niveau": 1
+        },
+        "1517571021438": {
+          "id": 1517571021438,
+          "nom": "Afrique",
+          "description_rep": "Photos des différentes montagne d'Afrique",
+          "fils": {
+            "1517577951874": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Kilimanjaro",
+              "id": 1517577951874,
+              "description_ter": "Photos du Kilimanjaro",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "maxresdefault.jpg": "maxresdefault.jpg",
+                  "index1.jpeg": "index1.jpeg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571021438,
+              "niveau": 2,
+              "position": 1
+            },
+            "1517578070549": {
+              "communicable": "public",
+              "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+              "nom": "Atlas",
+              "id": 1517578070549,
+              "description_ter": "Photos de l'Atlas",
+              "remarquable": true,
+              "contenu": {
+                "docs": {
+                  "voyage-maroc-montagne_grand.jpg": "voyage-maroc-montagne_grand.jpg",
+                  "369002.ori.jpg": "369002.ori.jpg"
+                }
+              },
+              "fils": {},
+              "child": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571021438,
+              "niveau": 2,
+              "position": 2
+            }
+          },
+          "child": 2,
+          "contenu": {},
+          "position": 4,
+          "isSelected": true,
+          "estArticle": true,
+          "enroul": true,
+          "id_parent": 1,
+          "niveau": 1
+        },
+        "1517571029692": {
+          "id": 1517571029692,
+          "nom": "Asie et Océanie",
+          "description_rep": "Photos des différentes montagnes d'Asie",
+          "fils": {
+            "1517578180756": {
+              "id": 1517578180756,
+              "nom": "Asie",
+              "description_rep": "Photos qui sont d'Asie",
+              "fils": {
+                "1517578303722": {
+                  "communicable": "public",
+                  "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+                  "nom": "Himalaya",
+                  "id": 1517578303722,
+                  "description_ter": "Photos d'Himalaya",
+                  "remarquable": true,
+                  "contenu": {
+                    "docs": {
+                      "un-alpiniste-polonais-n-a-en-revanche-pas-pu-etre-secouru.jpg": "un-alpiniste-polonais-n-a-en-revanche-pas-pu-etre-secouru.jpg",
+                      "13080750lpw-13080775-article-pakistan-nanga-parbat-jpg_4957160_660x281.jpg": "13080750lpw-13080775-article-pakistan-nanga-parbat-jpg_4957160_660x281.jpg"
+                    }
+                  },
+                  "fils": {},
+                  "child": 2,
+                  "isSelected": true,
+                  "estArticle": true,
+                  "enroul": true,
+                  "id_parent": 1517578180756,
+                  "niveau": 3,
+                  "position": 1
+                },
+                "1517578404938": {
+                  "communicable": "public",
+                  "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+                  "nom": "Japon",
+                  "id": 1517578404938,
+                  "description_ter": "Photos du Mont Fudji",
+                  "remarquable": true,
+                  "contenu": {
+                    "docs": {
+                      "mont-fuji-mariage-jtb-fujiyama-couple-amour-1200x520.jpg": "mont-fuji-mariage-jtb-fujiyama-couple-amour-1200x520.jpg",
+                      "index2.jpeg": "index2.jpeg"
+                    }
+                  },
+                  "fils": {},
+                  "child": 2,
+                  "isSelected": true,
+                  "estArticle": true,
+                  "enroul": true,
+                  "id_parent": 1517578180756,
+                  "niveau": 3,
+                  "position": 2
+                }
+              },
+              "child": 2,
+              "contenu": {},
+              "position": 1,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571029692,
+              "niveau": 2
+            },
+            "1517578226931": {
+              "id": 1517578226931,
+              "nom": "Océanie",
+              "description_rep": "Photos d'Océanie",
+              "fils": {
+                "1517578654140": {
+                  "communicable": "public",
+                  "personnes": "Sébastien ,La marmotte,le chamois,etc.",
+                  "nom": "Australie",
+                  "id": 1517578654140,
+                  "description_ter": "Photos de la montagne  d'Australie",
+                  "remarquable": true,
+                  "contenu": {
+                    "docs": {
+                      "pt85917.1294903.jpg": "pt85917.1294903.jpg",
+                      "3845832bcc3c6dab2215a9cb5df838cc.jpg": "3845832bcc3c6dab2215a9cb5df838cc.jpg"
+                    }
+                  },
+                  "fils": {},
+                  "child": 2,
+                  "isSelected": true,
+                  "estArticle": true,
+                  "enroul": true,
+                  "id_parent": 1517578226931,
+                  "niveau": 3,
+                  "position": 1
+                }
+              },
+              "child": 1,
+              "contenu": {},
+              "position": 2,
+              "isSelected": true,
+              "estArticle": true,
+              "enroul": true,
+              "id_parent": 1517571029692,
+              "niveau": 2
+            }
+          },
+          "child": 2,
+          "contenu": {},
+          "position": 5,
+          "isSelected": true,
+          "estArticle": true,
+          "enroul": true,
+          "id_parent": 1,
+          "niveau": 1
+        }
+      }
+    }
+  }
+}
