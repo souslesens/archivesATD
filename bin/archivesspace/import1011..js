@@ -6,8 +6,6 @@ var async = require('async');
 var file = "D:\\ATD_Baillet\\archivesSpaceTest\\1011.csv";
 
 
-
-
 var loginKey = "cbe0bc3bb28959c2f21315c5021a615e6837fcc83664df7323b4fcf2c122d1fa";
 var serverUrl = "http://vps254642.ovh.net:8089";
 var repositoryId = 2;
